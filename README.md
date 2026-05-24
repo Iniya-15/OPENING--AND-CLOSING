@@ -63,9 +63,9 @@ display_img(closing_image)
 ```
 ## Output:
 
-<img width="766" height="589" alt="image" src="https://github.com/user-attachments/assets/a49106d3-b6a0-4a71-9b15-5661ef0e4fce" />
+<img width="512" height="515" alt="Screenshot 2026-05-24 221848" src="https://github.com/user-attachments/assets/969f6c72-cff8-4424-be93-b2519ab20102" />
 
-<img width="772" height="594" alt="image" src="https://github.com/user-attachments/assets/553d21b1-e027-4aaa-ba5a-15cebd060526" />
+<img width="521" height="514" alt="Screenshot 2026-05-24 221853" src="https://github.com/user-attachments/assets/153a74f7-62c9-4ffd-827f-de09c02c3a9e" />
 
 
 
